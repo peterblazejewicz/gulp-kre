@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/peterblazejewicz/gulp-kre/issues"
   },
-  "homepage": "https://github.com/peterblazejewicz/gulp-kre"
+  "homepage": "https://github.com/peterblazejewicz/gulp-kre",
+  "dependencies": {
+    "chalk": "^0.5.1"
+  }
 }
